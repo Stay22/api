@@ -1,5 +1,5 @@
 ## GET /v2/:provider
-*NOTE: valid providers are currently only `hotelscombined`*
+*NOTE: valid providers are currently only `hotelscombined` and `priceline`*
 
 Used to get a list of hotels that have available rooms
 
