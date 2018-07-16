@@ -21,6 +21,9 @@ guests          int         Number of guests (both adults and children)
 rooms           int         Number of rooms needed (for group booking)
 limit           int         Number of items that should be shown
 page            int         The page number that should be shown. Used in conjunction with limit to provide pagination
+sortby          string      Which type of sorting to apply (popularity, review, distance, price, name, or rating)
+sortdirection   string      Which way to sort (up/ascending/low/near or down/descending/high/far)
+
 ```
 
 **Example**:
