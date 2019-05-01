@@ -23,8 +23,8 @@ limit           int         Number of items that should be shown
 page            int         The page number that should be shown. Used in conjunction with limit to provide pagination
 sortby          string      Which type of sorting to apply (popularity, review, distance, price, name, or rating)
 sortdirection   string      Which way to sort (up/ascending/low/near or down/descending/high/far)
-minstar         []int       Limit to hotels with the given number of stars. A minstar of 2 will show hotels with stars of 2,3,4,5.
-minrating       int         Limit to hotels with the given rating score. A minrating of 7.5 will show hotels of 7.5 and above.
+minstar         int         Limit to hotels with the given number of stars. A minstar of 2 will show hotels with stars of 2,3,4,5.
+minrating       float64     Limit to hotels with the given rating score. A minrating of 7.5 will show hotels of 7.5 and above.
 ```
 
 **Example**:
