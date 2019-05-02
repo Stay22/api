@@ -26,6 +26,7 @@ sortdirection   string      Which way to sort (up/ascending/low/near or down/des
 minstar         int         Limit to hotels with the given number of stars. A minstar of 2 will show hotels with stars of 2,3,4,5.
 minrating       float64     Limit to hotels with the given rating score. A minrating of 7.5 will show hotels of 7.5 and above.
 amenities       []string    List of amenities you're looking for (gym, free_breakfast, free_cancellation, pool, free_wifi, wifi, food, restaurant, bar, beach, free_parking, parking, ski, bbq, sport, pets, bath, tv, casino, evening_entertainment)
+staytype        []string    List of property type/stay types that you're looking for (hotel, inn, motel, hostel, apartment, bnb, house, camping, unique)
 ```
 
 **Example**:
