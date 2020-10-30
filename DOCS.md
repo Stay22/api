@@ -32,7 +32,7 @@ staytype        []string    List of property type/stay types that you're looking
 
 **Example**:
 ```
-curl "https://api.stay22.com/v2/hotelscombined?latitude=45.5017&longitude=-73.5673&radius=1000&checkin=2018-06-10&checkout=2018-06-12&minprice=0&maxprice=1200&language=en&currency=CAD&guests=2&rooms=1&limit=3&page=1"
+curl "https://api.stay22.com/v2/booking?latitude=45.5017&longitude=-73.5673&radius=1000&checkin=2021-06-10&checkout=2021-06-12&minprice=0&maxprice=1200&language=en&currency=CAD&guests=2&rooms=1&limit=3&page=1&country=CA"
 ```
 
 **Response**:
