@@ -1,5 +1,4 @@
-## Stay22 API - https://api.stay22.com
-  
-[Enroll](mailto:hello@stay22.com?subject=Stay22%20API%20Enrollment&body=)  
-[Docs](https://github.com/Stay22/api/blob/master/DOCS.md)  
-[Issues/Requests](https://github.com/Stay22/api/issues)  
+## Stay22 API
+
+Simply contact us at hi@stay22.com if you are interested in an API returning listings that links directly to Booking.com, Expedia.com, Vrbo.com, and other top travel OTAs.  
+We'll talk.
